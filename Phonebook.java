@@ -4,7 +4,7 @@ public class Phonebook {
     public static void main(String[] args) {
         HashMap<String, HashSet<String>> phoneBook = new HashMap<>();
 
-        addContact(phoneBook, "Иванов", "89153324365");
+        addContact(phoneBook, "Иванов", "89153324356");
         addContact(phoneBook, "Петров", "89163334253");
         addContact(phoneBook, "Сидоров", "89162453223");
         addContact(phoneBook, "Иванов", "89263338502");
